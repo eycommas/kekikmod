@@ -3,6 +3,6 @@
     "description": "Türkçe içerikli eklenti havuzu",
     "manifestVersion": 2,
     "pluginLists": [
-      "https://raw.githubusercontent.com/enesyetkin44/kekikmod/main/plugins.json?token=GHSAT0AAAAAACOBIQLVM7AS7L4UWKV7HIH4ZOHMSZA"
+      "https://raw.githubusercontent.com/eycommas/kekikmod/main/plugins.json"
     ]
 }
