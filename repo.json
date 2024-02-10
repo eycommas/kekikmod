@@ -1,7 +1,7 @@
 {
     "name": "Turkish Providers Repository | @KekikAkademiMOD",
     "description": "Türkçe içerikli eklenti havuzu",
-    "manifestVersion": 1,
+    "manifestVersion": 2,
     "pluginLists": [
       "https://raw.githubusercontent.com/enesyetkin44/kekikmod/main/plugins.json?token=GHSAT0AAAAAACOBIQLVM7AS7L4UWKV7HIH4ZOHMSZA"
     ]
