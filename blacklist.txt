@@ -1,4 +1,4 @@
-23 total channel
+24 total channel
 
 --Blacklisted channels - 8
 ugurfilm
