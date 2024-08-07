@@ -1,6 +1,6 @@
 34 total channel
 
---Blacklisted channels - 9
+--Blacklisted channels - 10
 ugurfilm
 rarefilmm
 canlitv
@@ -10,8 +10,9 @@ Uncutmaza
 xHamster
 OxAx
 SpankBang
+SuperFilmGeldi
 
---Whitelisted channels - 25
+--Whitelisted channels - 24
 AnimeciX
 BelgeselX
 CizgiMax
@@ -33,9 +34,8 @@ SetFilmIzle
 SezonlukDizi
 SinemaCX
 SineWix
-SuperFilmGeldi
 TurkAnime
 WebteIzle
 YouTube
 
-25 whitelisted.
+24 whitelisted.
