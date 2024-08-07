@@ -1,6 +1,6 @@
 24 total channel
 
---Blacklisted channels - 8
+--Blacklisted channels - 10
 ugurfilm
 rarefilmm
 canlitv
@@ -9,23 +9,34 @@ goodporn
 pornhub
 Uncutmaza
 xHamster
+OxAx
+SpankBang
 
---Whitelisted channels - 16
+--Whitelisted channels - 25
 AnimeciX
 BelgeselX
 CizgiMax
+DiziBox
 DiziKorea
 Dizilla
 DiziMom
 DiziPal
 FilmMakinesi
+FilmModu
 FullHDFilmizlesene
 HDFilmCehennemi
+IzleAI
 JetFilmizle
 KoreanTurk
 KultFilmler
+RecTV
+SetFilmIzle
 SezonlukDizi
+SinemaCX
+SineWix
+SuperFilmGeldi
+TurkAnime
 WebteIzle
 YouTube
 
-16 whitelisted.
+25 whitelisted.
