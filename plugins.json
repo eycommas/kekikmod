@@ -369,25 +369,6 @@
         "name": "SezonlukDizi"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.sinema.cx&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
-        "fileSize": 13530,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "keyiflerolsun"
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
-        "version": 2,
-        "internalName": "SinemaCX",
-        "description": "G\u00fcncel ve en iyi yabanc\u0131 filmleri y\u00fcksek g\u00f6r\u00fcnt\u00fc kalitesinde, T\u00fcrk\u00e7e dublaj ve altyaz\u0131 se\u00e7enekleriyle filmleri full izleyin.",
-        "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/SinemaCX.cs3",
-        "name": "SinemaCX"
-    },
-    {
         "iconUrl": "https://play-lh.googleusercontent.com/brwGNmr7IjA_MKk_TTPs0va10hdKE_bD_a1lnKoiMuCayW98EHpRv55edA6aEoJlmwfX",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
