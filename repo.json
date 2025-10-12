@@ -1,8 +1,9 @@
 {
-    "name": "Turkish Providers Repository | @KekikAkademiMOD",
+    "name": "CS Türkçe içerikli eklenti havuzu | @KekikMOD",
     "description": "Türkçe içerikli eklenti havuzu",
-    "manifestVersion": 2,
+    "manifestVersion": 1,
     "pluginLists": [
       "https://raw.githubusercontent.com/eycommas/kekikmod/main/plugins.json"
     ]
 }
+
