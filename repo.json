@@ -3,7 +3,8 @@
     "description": "Türkçe içerikli eklenti havuzu",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/eycommas/kekikmod/main/plugins.json"
+      "https://raw.githubusercontent.com/eycommas/kekikmod/refs/heads/main/plugins.json"
     ]
 }
+
 
