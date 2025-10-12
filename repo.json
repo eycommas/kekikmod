@@ -1,11 +1,12 @@
 {
     "name": "CS Türkçe içerikli eklenti havuzu | @KekikMOD",
     "description": "Türkçe içerikli eklenti havuzu",
-    "manifestVersion": 1,
+    "manifestVersion": 2,
     "pluginLists": [
       "https://raw.githubusercontent.com/eycommas/kekikmod/refs/heads/main/plugins.json"
     ]
 }
+
 
 
 
