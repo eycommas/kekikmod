@@ -1,220 +1,485 @@
 [
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=animecix.net&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=dizipal1210.com&sz=32",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
-        "fileSize": 19924,
+        "repositoryUrl": "https://github.com/sarapcanagii/Pitipitii",
+        "fileSize": 20398,
         "status": 1,
         "language": "tr",
         "authors": [
-            "keyiflerolsun"
-        ],
-        "tvTypes": [
-            "Anime"
-        ],
-        "version": 1,
-        "internalName": "AnimeciX",
-        "description": "AnimeciX, animeleri ke\u015ffedebilece\u011finiz ve animeler hakk\u0131nda her \u015feyi \u00f6\u011frenebilece\u011finiz bir payla\u015f\u0131m platformudur.",
-        "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/AnimeciX.cs3",
-        "name": "AnimeciX"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=belgeselx.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
-        "fileSize": 16516,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "keyiflerolsun"
-        ],
-        "tvTypes": [
-            "Documentary"
-        ],
-        "version": 3,
-        "internalName": "BelgeselX",
-        "description": "En yeni belgeseller, t\u00fcrk\u00e7e altyaz\u0131l\u0131 yada dublaj olarak 1080p kalitesinde HD belgesel izle.",
-        "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/BelgeselX.cs3",
-        "name": "BelgeselX"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=cizgimax.online&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
-        "fileSize": 16088,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "keyiflerolsun"
-        ],
-        "tvTypes": [
-            "Cartoon"
-        ],
-        "version": 4,
-        "internalName": "CizgiMax",
-        "description": "\u00c7izgiMax ile \u00c7izgi Film izlemek art\u0131k daha kolay, donmadan full hd ve reklams\u0131z bir sitedir, i\u00e7erisinde 700 den fazla \u00e7izgi film olan, Bu site bu i\u015fi profesyonelce yap\u0131yor.",
-        "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/CizgiMax.cs3",
-        "name": "CizgiMax"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizibox.de&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
-        "fileSize": 20305,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "keyiflerolsun"
-        ],
-        "tvTypes": [
-            "TvSeries"
-        ],
-        "version": 1,
-        "internalName": "DiziBox",
-        "description": "Yabanc\u0131 Dizi izle, T\u00fcm yabanc\u0131 dizilerin yeni ve eski sezonlar\u0131n\u0131 full hd izleyebilece\u011finiz elit site.",
-        "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/DiziBox.cs3",
-        "name": "DiziBox"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizikorea.vip&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
-        "fileSize": 18225,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "keyiflerolsun"
-        ],
-        "tvTypes": [
-            "AsianDrama"
-        ],
-        "version": 4,
-        "internalName": "DiziKorea",
-        "description": "En G\u00fcncel Kore Dizileri izleme Sitesi",
-        "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/DiziKorea.cs3",
-        "name": "DiziKorea"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
-        "fileSize": 23411,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "keyiflerolsun"
-        ],
-        "tvTypes": [
-            "TvSeries"
-        ],
-        "version": 9,
-        "internalName": "Dizilla",
-        "description": "Dizilla t\u00fcm yabanc\u0131 dizileri \u00fccretsiz olarak T\u00fcrk\u00e7e Dublaj ve altyaz\u0131l\u0131 se\u00e7enekleri ile 1080P kalite izleyebilece\u011finiz yeni nesil yabanc\u0131 dizi izleme siteniz.",
-        "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/Dizilla.cs3",
-        "name": "Dizilla"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizimom.tv&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
-        "fileSize": 28038,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "keyiflerolsun"
-        ],
-        "tvTypes": [
-            "TvSeries"
-        ],
-        "version": 8,
-        "internalName": "DiziMom",
-        "description": "Binlerce yerli yabanc\u0131 dizi ar\u015fivi, t\u00fcm sezonlar, kesintisiz b\u00f6l\u00fcmler. Sadece dizi izle, Dizimom heryerde seninle!",
-        "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/DiziMom.cs3",
-        "name": "DiziMom"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal683.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
-        "fileSize": 18600,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "keyiflerolsun",
-            "muratcesmecioglu"
+            "sarapcanagii"
         ],
         "tvTypes": [
             "TvSeries",
             "Movie"
         ],
-        "version": 12,
+        "version": 47,
         "internalName": "DiziPal",
-        "description": "en yeni dizileri g\u00fcvenli ve h\u0131zl\u0131 \u015fekilde sunar.",
-        "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/DiziPal.cs3",
+        "description": "En yeni dizileri g\u00fcvenli ve h\u0131zl\u0131 \u015fekilde sunar.",
+        "url": "https://raw.githubusercontent.com/sarapcanagii/Pitipitii/builds/DiziPal.cs3",
         "name": "DiziPal"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=colorhunt.co&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/sarapcanagii/Pitipitii",
+        "fileSize": 18695,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "sarapcanagii"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 9,
+        "internalName": "NeonSpor",
+        "description": "(A\u00e7\u0131lmayan Spor Kanallar \u0130\u00e7in VPN Gerekebilir.) NeonSpor eklentisinde BeIN Sports, Tabii Spor, S Sports, Exxen Spor, Smart Spor, Tivibu Spor ve Di\u011fer kanallar mevcuttur.",
+        "url": "https://raw.githubusercontent.com/sarapcanagii/Pitipitii/builds/NeonSpor.cs3",
+        "name": "NeonSpor"
+    }
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=belgeselx.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
+        "fileSize": 20295,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "keyiflerolsun",
+            "JustRelaxable",
+            "nikyokki"
+        ],
+        "tvTypes": [
+            "Documentary"
+        ],
+        "version": 6,
+        "internalName": "BelgeselX",
+        "description": "En yeni belgeseller, t\u00fcrk\u00e7e altyaz\u0131l\u0131 yada dublaj olarak 1080p kalitesinde HD belgesel izle.",
+        "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/BelgeselX.cs3",
+        "name": "BelgeselX"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=cizgimax.online&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
+        "fileSize": 18491,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "keyiflerolsun",
+            "nikyokki"
+        ],
+        "tvTypes": [
+            "Cartoon"
+        ],
+        "version": 7,
+        "internalName": "CizgiMax",
+        "description": "\u00c7izgiMax ile \u00c7izgi Film izlemek art\u0131k daha kolay, donmadan full hd ve reklams\u0131z bir sitedir, i\u00e7erisinde 700 den fazla \u00e7izgi film olan, Bu site bu i\u015fi profesyonelce yap\u0131yor.",
+        "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/CizgiMax.cs3",
+        "name": "CizgiMax"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizibox.de&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
+        "fileSize": 22767,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "keyiflerolsun",
+            "nikyokki"
+        ],
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "version": 10,
+        "internalName": "DiziBox",
+        "description": "Yabanc\u0131 Dizi izle, T\u00fcm yabanc\u0131 dizilerin yeni ve eski sezonlar\u0131n\u0131 full hd izleyebilece\u011finiz elit site.",
+        "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/DiziBox.cs3",
+        "name": "DiziBox"
+    },	
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=selcukflix.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
+        "fileSize": 30130,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "nikyokki"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 6,
+        "internalName": "SelcukFlix",
+        "description": "Selcukflix'te her t\u00fcrden en yeni ve en pop\u00fcler dizi ve filmleri izlemenin keyfini \u00e7\u0131kar\u0131n. Aksiyondan romanti\u011fe, bilim kurgudan dramaya, geni\u015f k\u00fct\u00fcphanemizde herkes i\u00e7in bir \u015fey var.",
+        "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/SelcukFlix.cs3",
+        "name": "SelcukFlix"
+    },
+    {
+        "iconUrl": "https://www.tlctv.com.tr/favicon.ico",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
+        "fileSize": 13259,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "nikyokki"
+        ],
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "TLC",
+        "description": "TLC TV dizi ve programlar\u0131n\u0131 takip etmek i\u00e7in ziyaret edin. TLC TV dizi ve programlar\u0131n\u0131 tek par\u00e7a ve hd kalitesiyle izleyin.",
+        "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/TLC.cs3",
+        "name": "TLC"
+    },	
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizimom.tv&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
+        "fileSize": 30575,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "keyiflerolsun",
+            "nikyokki"
+        ],
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "version": 27,
+        "internalName": "DiziMom",
+        "description": "Binlerce yerli yabanc\u0131 dizi ar\u015fivi, t\u00fcm sezonlar, kesintisiz b\u00f6l\u00fcmler. Sadece dizi izle, Dizimom heryerde seninle!",
+        "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/DiziMom.cs3",
+        "name": "DiziMom"
+    },
+    {
+        "iconUrl": "https://www.dmax.com.tr/favicon.ico",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
+        "fileSize": 13243,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "nikyokki"
+        ],
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "version": 2,
+        "internalName": "DMax",
+        "description": "DMAX dizi ve programlar\u0131n\u0131 takip etmek i\u00e7in ziyaret edin. DMAX dizi ve programlar\u0131n\u0131 tek par\u00e7a ve hd kalitesiyle izleyin.",
+        "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/DMax.cs3",
+        "name": "DMax"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.film&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
-        "fileSize": 13697,
+        "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
+        "fileSize": 22000,
         "status": 1,
         "language": "tr",
         "authors": [
-            "keyiflerolsun"
+            "keyiflerolsun",
+            "usdogu",
+            "nikyokki"
         ],
         "tvTypes": [
             "Movie"
         ],
-        "version": 1,
+        "version": 24,
         "internalName": "FilmMakinesi",
         "description": "Film Makinesi, en yeni ve en g\u00fcncel filmleri sitemizde full HD kalite fark\u0131 ile izleyebilirsiniz. HD film izle denildi\u011finde akla gelen en kaliteli film izleme sitesi.",
-        "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/FilmMakinesi.cs3",
+        "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/FilmMakinesi.cs3",
         "name": "FilmMakinesi"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.filmmodu17.com&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
-        "fileSize": 14043,
+        "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
+        "fileSize": 18284,
         "status": 1,
         "language": "tr",
         "authors": [
-            "keyiflerolsun"
+            "keyiflerolsun",
+            "nikyokki"
         ],
         "tvTypes": [
             "Movie"
         ],
-        "version": 1,
+        "version": 14,
         "internalName": "FilmModu",
         "description": "Film modun geldiyse y\u00fcksek kalitede en yeni filmleri izle, 1080p izleyebilece\u011finiz reklamsiz film sitesi.",
-        "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/FilmModu.cs3",
+        "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/FilmModu.cs3",
         "name": "FilmModu"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=fullhdfilmizlede.net&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
+        "fileSize": 15437,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "nikyokki"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 5,
+        "internalName": "FullHDFilm\u0130zlede",
+        "description": "En g\u00fcncel ve pop\u00fcler filmleri Full HD kalitesinde, T\u00fcrk\u00e7e altyaz\u0131l\u0131 veya T\u00fcrk\u00e7e dublaj se\u00e7enekleriyle izleyebilece\u011finiz tek adres! Sinema tutkunlar\u0131 i\u00e7in en \u00f6zel film deneyimini ya\u015famak i\u00e7in fullhdfilmizlede.net",
+        "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/FullHDFilm\u0130zlede.cs3",
+        "name": "FullHDFilm\u0130zlede"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.de&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
-        "fileSize": 28172,
+        "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
+        "fileSize": 34466,
         "status": 1,
         "language": "tr",
         "authors": [
-            "keyiflerolsun"
+            "keyiflerolsun",
+            "nikyokki"
         ],
         "tvTypes": [
             "Movie"
         ],
-        "version": 4,
+        "version": 11,
         "internalName": "FullHDFilmizlesene",
         "description": "Sinema zevkini evinize kadar getirdik. T\u00fcrkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
-        "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/FullHDFilmizlesene.cs3",
+        "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/FullHDFilmizlesene.cs3",
         "name": "FullHDFilmizlesene"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
-        "fileSize": 19224,
+        "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
+        "fileSize": 28660,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "hexated",
+            "keyiflerolsun",
+            "nikyokki"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 36,
+        "internalName": "HDFilmCehennemi",
+        "description": "T\u00fcrkiye'nin en h\u0131zl\u0131 hd film izleme sitesi",
+        "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/HDFilmCehennemi.cs3",
+        "name": "HDFilmCehennemi"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=kultfilmler.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
+        "fileSize": 19746,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "keyiflerolsun",
+            "nikyokki"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 11,
+        "internalName": "KultFilmler",
+        "description": "K\u00fclt Filmler \u00f6zenle en iyi filmleri derler ve iyi bir altyaz\u0131l\u0131 film izleme deneyimi sunmay\u0131 ama\u00e7lar",
+        "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/KultFilmler.cs3",
+        "name": "KultFilmler"
+    },	
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.setfilmizle.de&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
+        "fileSize": 22985,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "keyiflerolsun"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 14,
+        "internalName": "SetFilmIzle",
+        "description": "Setfilmizle sitemizde, donma ya\u015famadan T\u00fcrk\u00e7e dublaj ve altyaz\u0131l\u0131 filmleri ile dizileri muhte\u015fem 1080p full HD kalitesinde izleyebilirsiniz.",
+        "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/SetFilmIzle.cs3",
+        "name": "SetFilmIzle"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=sezonlukdizi6.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
+        "fileSize": 22620,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "keyiflerolsun",
+            "JustRelaxable",
+            "nikyokki"
+        ],
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "version": 9,
+        "internalName": "SezonlukDizi",
+        "description": "G\u00fcncel ve eski dizileri en iyi g\u00f6r\u00fcnt\u00fc kalitesiyle bulabilece\u011finiz yabanc\u0131 dizi izleme siteniz.",
+        "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/SezonlukDizi.cs3",
+        "name": "SezonlukDizi"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.sinewix.com/&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
+        "fileSize": 28626,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "nikyokki"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime"
+        ],
+        "version": 3,
+        "internalName": "SineWix",
+        "description": "SineWix | Film - Dizi - Anime \u0130zleme Uygulamas\u0131",
+        "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/SineWix.cs3",
+        "name": "SineWix"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle2.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
+        "fileSize": 30571,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "keyiflerolsun",
+            "nikyokki"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 59,
+        "internalName": "WebteIzle",
+        "description": "Her t\u00fcrl\u00fc filmi ister dublaj ister altyaz\u0131l\u0131, en kaliteli bir \u015fekilde izleyebilece\u011finiz ar\u015fivi en geni\u015f ger\u00e7ek film izleme siteniz.",
+        "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/WebteIzle.cs3",
+        "name": "WebteIzle"
+    },
+    {
+        "iconUrl": "https://cizgivedizi.com/Logo.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "Makoto Tokioki"
+        ],
+        "tvTypes": [
+            "Cartoon, TvSeries"
+        ],
+        "version": 3,
+        "internalName": "CizgiVeDizi",
+        "description": "Pop\u00fcler \u00e7izgi film ve dizilerin T\u00fcrk\u00e7e g\u00fcncel kayna\u011f\u0131.",
+        "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/CizgiVeDizi.cs3",
+        "name": "CizgiVeDizi"
+    },
+      {
+        "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/c3/b7/35c3b7b0-4a84-cceb-d3e2-349e19712b07/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "Makoto Tokioki"
+        ],
+        "tvTypes": [
+            "Movie,TvSeries"
+        ],
+        "version": 1,
+        "internalName": "Puhu",
+        "description": "Puhu",
+        "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/Puhu.cs3",
+        "name": "Puhu"
+    },
+    {
+        "iconUrl": "https://filmbip.com/uploads/favicon/original/favicon.webp",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/maarrem/cs-Kekik",
+        "fileSize": 14795,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "keyiflerolsun"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 11,
+        "internalName": "FilmBip",
+        "description": "Binlerce yerli yabanc\u0131 dizi ar\u015fivi, t\u00fcm sezonlar, kesintisiz b\u00f6l\u00fcmler. Filmbip heryerde seninle!",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/FilmBip.cs3",
+        "name": "FilmBip"
+    },	
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.filmmodu17.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/maarrem/cs-Kekik",
+        "fileSize": 14831,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "keyiflerolsun"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 13,
+        "internalName": "FilmModu 2",
+        "description": "Film modun geldiyse y\u00fcksek kalitede en yeni filmleri izle, 1080p izleyebilece\u011finiz reklamsiz film sitesi.",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/FilmModu.cs3",
+        "name": "FilmModu 2"
+    },	
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.de&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/maarrem/cs-Kekik",
+        "fileSize": 33295,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "keyiflerolsun"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 26,
+        "internalName": "FullHDFilmizlesene 2",
+        "description": "Sinema zevkini evinize kadar getirdik. T\u00fcrkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/FullHDFilmizlesene.cs3",
+        "name": "FullHDFilmizlesene 2"
+    },	
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/maarrem/cs-Kekik",
+        "fileSize": 25526,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -225,74 +490,17 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 12,
-        "internalName": "HDFilmCehennemi",
+        "version": 22,
+        "internalName": "HDFilmCehennemi 2",
         "description": "T\u00fcrkiye'nin en h\u0131zl\u0131 hd film izleme sitesi",
-        "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/HDFilmCehennemi.cs3",
-        "name": "HDFilmCehennemi"
-    },
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/HDFilmCehennemi.cs3",
+        "name": "HDFilmCehennemi 2"
+    },	
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=720pizle.ai&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=kultfilmler.net&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
-        "fileSize": 14640,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "keyiflerolsun"
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
-        "version": 1,
-        "internalName": "IzleAI",
-        "description": "1080P yabanc\u0131 film izle, T\u00fcrk\u00e7e dublaj ve T\u00fcrk\u00e7e altyaz\u0131l\u0131 film se\u00e7enekleri ile T\u00fcrkiye'nin en geni\u015f film ar\u015fivi 720pizle Full hd film izle.",
-        "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/IzleAI.cs3",
-        "name": "IzleAI"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=https://jetfilmizle.de&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
-        "fileSize": 13741,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "keyiflerolsun"
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
-        "version": 11,
-        "internalName": "JetFilmizle",
-        "description": "Binlerce Film \u0130zleme Se\u00e7ene\u011fiyle En \u0130yi Film \u0130zleme Sitesi",
-        "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/JetFilmizle.cs3",
-        "name": "JetFilmizle"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.koreanturk.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
-        "fileSize": 12032,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "keyiflerolsun"
-        ],
-        "tvTypes": [
-            "AsianDrama"
-        ],
-        "version": 5,
-        "internalName": "KoreanTurk",
-        "description": "G\u00fcney Kore sevdal\u0131lar\u0131n\u0131n vazge\u00e7emedi\u011fi ve T\u00fcrkiye'nin en \u00e7ok ziyaret edilen G\u00fcney Kore Portal\u0131; Koreant\u00fcrk'e ho\u015fgeldiniz!",
-        "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/KoreanTurk.cs3",
-        "name": "KoreanTurk"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=kultfilmler.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
-        "fileSize": 17995,
+        "repositoryUrl": "https://github.com/maarrem/cs-Kekik",
+        "fileSize": 21873,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -302,150 +510,10 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 6,
-        "internalName": "KultFilmler",
+        "version": 12,
+        "internalName": "KultFilmler 2",
         "description": "K\u00fclt Filmler \u00f6zenle en iyi filmleri derler ve iyi bir altyaz\u0131l\u0131 film izleme deneyimi sunmay\u0131 ama\u00e7lar",
-        "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/KultFilmler.cs3",
-        "name": "KultFilmler"
-    },
-    {
-        "iconUrl": "https://rectvapk.cc/wp-content/uploads/2023/02/Rec-TV.webp",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
-        "fileSize": 15801,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "keyiflerolsun",
-            "yusiqo"
-        ],
-        "tvTypes": [
-            "Movie",
-            "Live"
-        ],
-        "version": 7,
-        "internalName": "RecTV",
-        "description": "RecTv APK, T\u00fcrkiye\u2019deki en pop\u00fcler \u00c7evrimi\u00e7i Medya Ak\u0131\u015f platformlar\u0131ndan biridir. Filmlerin, Canl\u0131 Sporlar\u0131n, Web Dizilerinin ve \u00e7ok daha fazlas\u0131n\u0131n keyfini \u00fccretsiz \u00e7\u0131kar\u0131n.",
-        "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/RecTV.cs3",
-        "name": "RecTV"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.setfilmizle.de&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
-        "fileSize": 18270,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "keyiflerolsun"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "version": 3,
-        "internalName": "SetFilmIzle",
-        "description": "Setfilmizle sitemizde, donma ya\u015famadan T\u00fcrk\u00e7e dublaj ve altyaz\u0131l\u0131 filmleri ile dizileri muhte\u015fem 1080p full HD kalitesinde izleyebilirsiniz.",
-        "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/SetFilmIzle.cs3",
-        "name": "SetFilmIzle"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=sezonlukdizi6.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
-        "fileSize": 17330,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "keyiflerolsun"
-        ],
-        "tvTypes": [
-            "TvSeries"
-        ],
-        "version": 1,
-        "internalName": "SezonlukDizi",
-        "description": "G\u00fcncel ve eski dizileri en iyi g\u00f6r\u00fcnt\u00fc kalitesiyle bulabilece\u011finiz yabanc\u0131 dizi izleme siteniz.",
-        "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/SezonlukDizi.cs3",
-        "name": "SezonlukDizi"
-    },
-    {
-        "iconUrl": "https://play-lh.googleusercontent.com/brwGNmr7IjA_MKk_TTPs0va10hdKE_bD_a1lnKoiMuCayW98EHpRv55edA6aEoJlmwfX",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
-        "fileSize": 24671,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "keyiflerolsun",
-            "yusiqo"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries",
-            "Anime"
-        ],
-        "version": 11,
-        "internalName": "SineWix",
-        "description": "Sinewix | \u00dccretsiz Film - Dizi - Anime \u0130zleme Uygulamas\u0131.",
-        "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/SineWix.cs3",
-        "name": "SineWix"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.turkanime.co&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
-        "fileSize": 15024,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "keyiflerolsun"
-        ],
-        "tvTypes": [
-            "Anime"
-        ],
-        "version": 1,
-        "internalName": "TurkAnime",
-        "description": "T\u00fcrk Anime TV - T\u00fcrkiye'nin Online Anime izleme sitesi.",
-        "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/TurkAnime.cs3",
-        "name": "TurkAnime"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle2.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
-        "fileSize": 19439,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "keyiflerolsun"
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
-        "version": 5,
-        "internalName": "WebteIzle",
-        "description": "Her t\u00fcrl\u00fc filmi ister dublaj ister altyaz\u0131l\u0131, en kaliteli bir \u015fekilde izleyebilece\u011finiz ar\u015fivi en geni\u015f ger\u00e7ek film izleme siteniz.",
-        "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/WebteIzle.cs3",
-        "name": "WebteIzle"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=youtube.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
-        "fileSize": 14110,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "Cloudburst",
-            "keyiflerolsun"
-        ],
-        "tvTypes": [
-            "Others"
-        ],
-        "version": 2,
-        "internalName": "YouTube",
-        "description": "YouTube, izledi\u011finiz videolarla \u00f6nerilerini iyile\u015ftirir. \u0130lginizi \u00e7ekebilecek i\u00e7eriklerle dolu bir ak\u0131\u015f olu\u015fturmak i\u00e7in video izlemeye ba\u015flay\u0131n.",
-        "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/YouTube.cs3",
-        "name": "YouTube"
-    }
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/KultFilmler.cs3",
+        "name": "KultFilmler 2"
+    }	
 ]
